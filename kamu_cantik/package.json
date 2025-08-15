@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node kamu_cantik.js"
   },
-  "author": "Raol Mukarrozi",
+  "author": "Shadow-Satria",
   "dependencies": {
     "async-mutex": "^0.3.2",
     "chalk": "^5.3.0"
